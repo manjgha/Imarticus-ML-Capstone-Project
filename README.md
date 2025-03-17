@@ -10,3 +10,9 @@ _________________________________________
 - Published a comprehensive story with 2 dashboards that show key insights regarding groundwater availability, recharge and extraction, on Tableau Public. 
 - Tools Used: Python (Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn), Tableau, Jupyter Notebook.
 ___________________________________________
+**Key Components**
+- Final Capstone Groundwater Availability Prediction-Copy1.ipynb: Jupyter notebook file with dataset details and entire code (from Data Loading till ML).
+__________________________________________
+**Additional Information**
+
+[Link to Tableau](https://public.tableau.com/views/Capstone_GWPrediction_KeyInsights/GWStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
